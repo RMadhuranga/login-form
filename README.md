@@ -34,5 +34,6 @@ This project is a stylish and responsive login and registration form built using
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/login-form-project.git
+   git clone https://github.com/RMadhuranga/login-form-project.git
+
 
